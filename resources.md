@@ -1,5 +1,13 @@
 # Resources
 
+## Bitcoin
+
+- [@aantonop, Bitcoin Q&A: Governance and social attack immunity, publ. 26.01.2019](https://www.youtube.com/watch?v=PjOHatoX6Fk)
+
+## Ethereum
+
+## Corda
+
 ## EOS
 
 - [EOS explained by Dan Larimer](https://www.youtube.com/watch?v=xkXuFeN-KMw)
