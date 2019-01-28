@@ -13,6 +13,7 @@
 
 - [Vitalik Buterin Discusses On-chain Governance, publ. 13.09.2018](https://youtu.be/w-CH_5il9aU)
 - [Ethereum Governance: Showcase and Tools by Hudson Jameson (Devcon4), publ. 10.12.2018](https://youtu.be/dqFqOmWzw8M)
+- [How open is too open?, Lane Rettig on Medium, 30.12.2018](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24)
 
 ## Corda
 
