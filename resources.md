@@ -28,3 +28,5 @@
 ## Tezos
 
 - [Post: The Tezos Experiment, Meltem Demirors on Medium, 26.07.2018](https://medium.com/@Melt_Dem/the-tezos-experiment-b97e124e5b38) 
+
+## Decred
