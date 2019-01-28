@@ -24,3 +24,7 @@
 
 - [Video: EOS explained by Dan Larimer](https://www.youtube.com/watch?v=xkXuFeN-KMw)
 - [Video: Talk by Thomas B. Cox on EOS, the governed blockchain at EOSCC2018 held in Seoul, South Korea, 20.07.2018](https://www.youtube.com/watch?v=Bjxtz7pD-fQ)
+
+## Tezos
+
+- [Post: The Tezos Experiment, Meltem Demirors on Medium, 26.07.2018](https://medium.com/@Melt_Dem/the-tezos-experiment-b97e124e5b38) 
