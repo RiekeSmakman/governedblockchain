@@ -11,6 +11,7 @@
 ## Ethereum
 
 - [Vitalik Buterin Discusses On-chain Governance, publ. 13.09.2018](https://youtu.be/w-CH_5il9aU)
+- [Ethereum Governance: Showcase and Tools by Hudson Jameson (Devcon4), publ. 10.12.2018](https://youtu.be/dqFqOmWzw8M)
 
 ## Corda
 
