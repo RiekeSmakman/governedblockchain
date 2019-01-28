@@ -3,6 +3,7 @@
 ## General : Governance in Decentralized Systems
 
 - [@aantonop, Q&A: Governance trade-offs in decentralised systems](https://youtu.be/dtwaW79Fj7c)
+- [Podcast: How Should We Govern Blockchains? - Ryan Zurrer (Web3 Foundation), The Blockcrunch, 28.01.2019](http://blockcrunch.libsyn.com/ryan-zurrer-governance)
 
 ## Bitcoin
 
